@@ -309,5 +309,8 @@
   "bugs": {
     "url": "https://github.com/paulladwig/paulladwigphotography/issues"
   },
-  "homepage": "https://github.com/paulladwig/paulladwigphotography#readme"
+  "homepage": "https://github.com/paulladwig/paulladwigphotography#readme",
+  "engines": {
+    "node": "12.13.0"
+  }
 }
