@@ -7,12 +7,6 @@
     "lib": "lib"
   },
   "dependencies": {
-    "eslint-scope": "^4.0.3",
-    "fs-minipass": "^1.2.7",
-    "fs-write-stream-atomic": "^1.0.10",
-    "fsevents": "^1.2.9",
-    "fs.realpath": "^1.0.0",
-    "webpack": "^4.41.2"
   },
   "devDependencies": {},
   "scripts": {
