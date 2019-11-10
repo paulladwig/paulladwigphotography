@@ -1,0 +1,10 @@
+{
+  "name": "paulladwigphotography",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "select2": "^4.0.12"
+  }
+}
